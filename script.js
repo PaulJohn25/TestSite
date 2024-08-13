@@ -9,10 +9,10 @@ document.addEventListener("DOMContentLoaded", () => {
     function changeBoxColor() {
        if (!isClick) {
           box.style.background = "#86AB89";
-          name.innerHTML = "Grace Marantal Pernia";
+          name.innerHTML = "John Paul Nidua";
        } else {
           box.style.background = "grey";
-          name.innerHTML = "Grace M. Pernia";
+          name.innerHTML = "John Paul Imperial";
        }
 
        isClick = !isClick;
